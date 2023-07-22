@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1690000912 source:c:\users\user\downloads\my-github\week 3\days convert\main.c
+	<stdio.h>
+	<stdlib.h>
+

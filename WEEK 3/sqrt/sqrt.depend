@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666018062 source:c:\users\user\onedrive - mansoura university - main\desktop\mostafa\embedded study\week 1\1\sqrt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

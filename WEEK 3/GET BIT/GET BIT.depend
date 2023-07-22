@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1690019499 source:c:\users\user\downloads\my-github\week 3\get bit\main.c
+	<stdio.h>
+	<stdlib.h>
+
