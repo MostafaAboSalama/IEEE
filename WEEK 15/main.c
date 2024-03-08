@@ -31,7 +31,7 @@ int main(void)
 	while(1)
 	{
 		// implementation
-		/*lcd_clear();
+		lcd_clear();
 		lcd_send_string("IEEE");
 		wait_ms(300);
 		lcd_clear();
@@ -43,9 +43,7 @@ int main(void)
 		/*MCAL_GPIO_WritePin(GPIOA, GPIO_PIN_12, GPIO_PIN_SET);
 		wait_ms(100);
 		MCAL_GPIO_WritePin(GPIOA, GPIO_PIN_12, GPIO_PIN_RESET);*/
-		lcd_send_string("Mohaned Donkey");
-		wait_ms(300);
-		lcd_clear();
+		
 	}
 
 }

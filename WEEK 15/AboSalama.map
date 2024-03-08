@@ -141,9 +141,9 @@ LOAD Startup.o
                 0x08000a90                DMA1_Stream3_IRQHandler
                 0x08000a96                Reset_Handler
  *(.rodata)
- .rodata        0x08000b1c        0xf main.o
+ .rodata        0x08000b1c        0xe main.o
                 0x08000b2c                . = ALIGN (0x4)
- *fill*         0x08000b2b        0x1 
+ *fill*         0x08000b2a        0x2 
                 0x08000b2c                _etext = .
 
 .glue_7         0x08000b2c        0x0
