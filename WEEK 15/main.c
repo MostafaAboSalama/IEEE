@@ -37,9 +37,6 @@ int main(void)
 		lcd_clear();
 		lcd_send_string("Ramadan Kareem");
 		wait_ms(300);
-		lcd_clear();
-		lcd_send_string("AboSalama");
-		wait_ms(300);
 		/*MCAL_GPIO_WritePin(GPIOA, GPIO_PIN_12, GPIO_PIN_SET);
 		wait_ms(100);
 		MCAL_GPIO_WritePin(GPIOA, GPIO_PIN_12, GPIO_PIN_RESET);*/
