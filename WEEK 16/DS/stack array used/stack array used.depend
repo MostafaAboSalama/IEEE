@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1692883845 source:c:\users\user\downloads\my-github\week 4\loop\stack array used\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1692883671 c:\users\user\downloads\my-github\week 4\loop\stack array used\stack.h
+
